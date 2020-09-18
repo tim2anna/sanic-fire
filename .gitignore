@@ -1,0 +1,4 @@
+*.py[cod]
+.idea
+dist
+sanic_fire.egg-info
