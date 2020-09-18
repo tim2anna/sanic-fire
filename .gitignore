@@ -1,4 +1,6 @@
 *.py[cod]
 .idea
 dist
+build
 sanic_fire.egg-info
+.DS_Store

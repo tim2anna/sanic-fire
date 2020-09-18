@@ -11,6 +11,7 @@ setup(
     description=(
         'sanic-fire is an extension for Sanic that adds support for commands to your application.'
     ),
+    long_description_content_type="text/markdown",
     long_description=open('README.md').read(),
     author='Anna',
     author_email='',
